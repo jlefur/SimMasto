@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sweep runs="1">
+  <parameter constant_type="boolean" name="VERBOSE" type="constant" value="false"/>
+  <parameter constant_type="boolean" name="BLACK_MAP" type="constant" value="false"/>
+  <parameter constant_type="string" name="RASTER_FILE" type="constant" value="20140801-rasterMusDodel.1a.md.txt"/>
+  <parameter constant_type="number" name="CELL_WIDTH_Ucm" type="constant" value="300"/>
+  <parameter constant_type="number" name="INIT_POP_SIZE" type="number" start="1" end="10" step="1"/>
+  <parameter constant_type="number" name="UNLOAD_FREQUENCY_Uweek" type="constant" value="3"/>
+  <parameter constant_type="number" name="randomSeed" type="constant" value="1122279370"/>
+  <parameter constant_type="boolean" name="DISPLAY_MAP" type="constant" value="false"/>
+  <parameter constant_type="boolean" name="TERMINATE" type="constant" value="false"/>
+  <parameter constant_type="string" name="PROTOCOL" type="constant" value="DODEL"/>
+  <parameter constant_type="number" name="TICK_LENGTH_Ucalendar" type="constant" value="15"/>
+  <parameter constant_type="string" name="TICK_UNIT_Ucalendar" type="constant" value="m"/>
+</sweep>
+

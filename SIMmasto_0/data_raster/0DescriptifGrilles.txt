@@ -1,0 +1,30 @@
+20120315-MbourCage.JLF.txt; // petite grille de deux cages pour test procédures MbourCages
+grille-test.1a.txt";// grille théorique originelle simulant Chize
+grille-test.1b.txt";// petite grille vide à 9 avec 4 coins à 1
+grille-test.1c.txt";// comme .1a mais uniquement des 0 et des 1
+grille-test.1d.txt";// petite grille de 5x5 
+grille-test.1f.txt";// réseau de zones favorables
+grille-test.2a.txt";// comme grille-test.1a mais avec contact avec l'extérieur et bordures sans affinité
+grille-test.2b.txt";// un patch de 7 au milieu de 3 homogène
+grille-test.2c.txt";// plusieurs patches de 7 au milieu de 3 homogène
+grille-test.2d.txt";// damier aléatoire avec des 3 et des 7 de 50x50
+grille-test.2d'.txt";//damier aléatoire avec des 4 et des 7 de 50x50 // nouvelle config 01/2012 pour cropRotation
+grille-test.2e.txt";// des carrés de 7 à gauche pour voir la dérive vers l'est des mâles
+grille-test.2f.txt";// comme grille-test.2a mais affinités 1 (habitations) remplacées par affinité 0
+grille-test.2g.txt";// comme grille-test.2a mais nouvelle codification d'affinités (05.08.2011)
+grille-test.2h.txt";// comme grille-test.2c mais nouvelle codification d'affinités (10.08.2011)
+grille-test.3a.txt";// comme grille-test.1a 100 x 100 et ajustements bordures
+grille-autoroute.3c.txt";// comme grille-test.2g 100 x 100 
+homogeneousGrid.1a.txt";// que des 3
+homogeneousGrid.1.txt";// que des 1
+homogeneousGrid.7.txt";// que des 7
+Blank_page_500x300.gif";
+Black_page2.gif";
+Memo03-GoogleEarth1.JLF.gif"; //CELL_WIDTH_UMETER = 7.478
+Memo03-GoogleEarth2.JLF.gif"; //CELL_WIDTH_UMETER = 53.41
+Chize_autoroute_8col.gif";
+Kedougou_15colvert.gif";
+Niger.PNG";
+Mbarigo_16col_500x300.gif";
+Memo03-GoogleEarth1.JLF.gif";
+ChizeCrop.1a: comme grill-test.2g mais adapté au nouveau crop rotation (J.LeFur, 01.2012)

@@ -1,0 +1,4 @@
+type;speed_UmetersByTick;rodentMaxLoad;loadingProba in percent;key
+truck;400;30;0;road
+train;100;300;50;rail
+boat;20;30;50;river

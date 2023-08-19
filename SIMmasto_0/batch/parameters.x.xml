@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- fileName : parameters.xml -->
+<!-- protocolName : CENTENAL -->
+<parameters>
+
+	<!-- Conditions de simulation -->
+
+	<parameter name="PROTOCOL" displayName="00/ PROTOCOL" type="java.lang.String"
+		defaultValue="CENTENAL" isReadOnly="true"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	<parameter name="VERBOSE" displayName="01/ Display events on console"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	
+	<parameter name="RASTER_FILE" displayName="02/grid filename"
+		type="java.lang.String" defaultValue="20140527-centenalRaster.txt"
+		isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	<!-- Soil cell parameters -->		
+	<parameter name="CELL_WIDTH_Ucm" displayName="03/ nb centimeters in one pixel"
+		type="java.lang.Integer" defaultValue="750000" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	
+	<parameter name="TICK_LENGTH_Ucalendar" displayName="04/ TICK_LENGTH_Ucalendar"
+		type="java.lang.Integer" defaultValue="1" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="TICK_UNIT_Ucalendar" displayName="05/ TICK_UNIT_Ucalendar"
+		type="java.lang.String" defaultValue="d" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	
+	<parameter name="HC_ACTIVITY_RATIO" displayName="06/ HC ACTIVITY_RATIO"
+			type="java.lang.Integer" defaultValue="60" isReadOnly="false"
+			converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	
+	<parameter name="HC_TOTAL_TIME_LENGTH_Ucalendar" displayName="07/ HC TOTALTIME_LENGTH_Ucalendar"
+			type="java.lang.Integer" defaultValue="6" isReadOnly="false"
+			converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="HC_ACTIVITY_TIME_UNIT_Ucalendar" displayName="08/ HC ACTIVITY_TIME_UNIT_Ucalendar"
+			type="java.lang.String" defaultValue="mon" isReadOnly="false"
+			converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	<parameter name="VEHICLE_LOADING_PROBA_DIVIDER" displayName="09/ VEHICLE_LOADING_PROBA_DIVIDER"
+			type="java.lang.Integer" defaultValue="50" isReadOnly="false"
+			converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	
+	<parameter name="RODENT_SUPER_AGENT_SIZE" type="java.lang.Integer" defaultValue="1" 
+			isReadOnly="false" displayName="10/ RODENT_SUPER_AGENT_SIZE"
+			converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="HUMAN_CARRIER_MULTIPLY" type="java.lang.Integer" defaultValue="1"  
+			isReadOnly="false" displayName="11/ HUMAN_CARRIER_MULTIPLY"
+			converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	
+	<parameter name="randomSeed" displayName="12/ Default Random Seed" type="int" 
+						defaultValue="1122279370" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"/>
+</parameters>
+

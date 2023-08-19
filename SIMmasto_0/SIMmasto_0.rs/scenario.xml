@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- fileName : scenario.xml -->
+<!-- protocolName : CHIZE -->
+<Scenario>
+	<repast.simphony.dataLoader.engine.ClassNameDataLoaderAction
+		context="SIMmasto0"
+		file="repast.simphony.dataLoader.engine.ClassNameDataLoaderAction_0.xml" />
+
+	<repast.simphony.action.display context="SIMmasto0"
+		file="repast.simphony.action.display_Chize2.xml" />
+
+	<repast.simphony.userpanel.ui.DefaultUserPanelDescriptorAction
+		context="SIMmasto0"
+		file="repast.simphony.userpanel.ui.DefaultUserPanelDescriptorAction_0.xml" />
+
+	<model.initializer class="presentation.display.C_CustomPanelSet" />
+</Scenario>

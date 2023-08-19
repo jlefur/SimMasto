@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- fileName : parameters.xml -->
+<!-- protocolName : CENTENAL -->
+<parameters>
+
+	<!-- COMMON INTER-PROTOCOLS -->
+	<!-- Time scale -->
+	<parameter name="TICK_UNIT_Ucalendar" displayName="0a/ Tick unit (ms,s,m,h,d,mon,y)"
+		type="java.lang.String" defaultValue="D" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	<parameter name="TICK_LENGTH_Ucalendar" displayName="0b/ Tick length"
+		type="java.lang.Integer" defaultValue="1" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="CELL_WIDTH_Ucm" displayName="0c/ nb centimeters in one pixel (default=exact scale)"
+		type="java.lang.Integer" defaultValue="750000" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+
+	<!-- Switches -->
+	<parameter name="VERBOSE" displayName="0e/ Display more events on map and console"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="DISPLAY_MAP" displayName="0f/ Display map above ground"
+		type="boolean" defaultValue="true" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="IMAGE" displayName="0g/ ICONS (display objects using icons)"
+		type="boolean" defaultValue="true" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+		
+	<!-- PROTOCOL DEPENDENT -->
+	<parameter name="PROTOCOL" displayName="1a/ _________ PROTOCOL SPECIFIC _________"
+		type="java.lang.String" defaultValue="CENTENAL" isReadOnly="true"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	<parameter name="VEHICLE_LOADING_PROBA_DIVIDER" displayName="1b/ p(rodentClimb) (1=data,100=data/100,...)"
+		type="java.lang.Integer" defaultValue="1000" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="RODENT_SUPER_AGENT_SIZE" type="java.lang.Integer"
+		defaultValue="1" isReadOnly="false" displayName="1c/ Rodents super-agent size"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="HUMAN_SUPER_AGENT_SIZE" type="java.lang.Integer"
+		defaultValue="10" isReadOnly="false" displayName="1d/ carriers super-agent size"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+
+	<parameter name="RASTER_FILE" displayName="1h/grid filename"
+		type="java.lang.String" defaultValue="20161022-centenalRaster.txt" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+
+	<!-- SIMULATION SETTING -->
+	<parameter name="TERMINATE" displayName="2a/ Terminate simulation"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="randomSeed" displayName="2b/ Default Random Seed (unused)"
+		type="int" defaultValue="1122279370" isReadOnly="true"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" /><!-- 
+		default value = "__NULL__" => graine aleatoire -->
+
+</parameters>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- fileName : scenario.xml -->
+<!-- protocolName : CENTENAL -->
+<Scenario>
+	<repast.simphony.dataLoader.engine.ClassNameDataLoaderAction
+		context="SIMmasto0"
+		file="repast.simphony.dataLoader.engine.ClassNameDataLoaderAction_0.xml" />
+	<repast.simphony.action.display context="SIMmasto0"
+		file="repast.simphony.action.display_CentenalGround.xml" />
+		<repast.simphony.action.display context="SIMmasto0"
+		file="repast.simphony.action.display_CentenalRodents.xml" />
+	<repast.simphony.userpanel.ui.DefaultUserPanelDescriptorAction
+		context="SIMmasto0"
+		file="repast.simphony.userpanel.ui.DefaultUserPanelDescriptorAction_0.xml" />
+	<model.initializer class="presentation.display.C_CustomPanelSet" />
+</Scenario>
+
+

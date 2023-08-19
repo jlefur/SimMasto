@@ -1,0 +1,4 @@
+Le chargement des cartes dans le simulation 
+se fait à partir et suivant la list des cartes 
+qui se trouve dans le fichier cardNameList.csv 
+qui se trouve dans le répertoire data_CSV\senCentenal\

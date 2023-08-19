@@ -1,0 +1,786 @@
+DATE EVENT;X;Y;EVENT;VALUE1;VALUE2;COMMENT
+;;;;;;
+02/01/1999;-15.63550;16.42800;Gerbillus_nigeriae;M;;SEN - Richard-Toll H - 16.428000N15.635500W -  2 (Richard-Toll H)
+02/01/1999;-15.63550;16.42800;Gerbillus_nigeriae;M;;SEN - Richard-Toll H - 16.428000N15.635500W -  2 (Richard-Toll H)
+02/01/1999;-14.45750;15.26867;Gerbillus_nigeriae;M;;SEN - Yonoféré - 15.268667N14.457500W -  2 (Yonoféré)
+02/01/1999;-14.45750;15.26867;Gerbillus_nigeriae;F;;SEN - Yonoféré - 15.268667N14.457500W -  2 (Yonoféré)
+02/01/1999;-14.45750;15.26867;Gerbillus_nigeriae;M;;SEN - Yonoféré - 15.268667N14.457500W -  2 (Yonoféré)
+02/01/1999;-14.45750;15.26867;Gerbillus_nigeriae;M;;SEN - Yonoféré - 15.268667N14.457500W -  2 (Yonoféré)
+02/01/1999;-16.34162;16.08800;Gerbillus_nigeriae;F;;SEN - Lampsar-Peul - 16.088000N16.341617W -  2 (Lampsar-Peul)
+02/01/1999;-16.35078;16.09267;Gerbillus_nigeriae;F;;SEN - Mbarigo Keur Moctar - 16.092667N16.350783W -  2 (Mbarigo Keur Moctar)
+02/01/1999;-16.34725;16.09445;Gerbillus_nigeriae;F;;SEN - Mbarigo Keur Moctar - 16.094450N16.347250W -  2 (Mbarigo Keur Moctar)
+02/01/1999;-16.34817;16.09833;Gerbillus_nigeriae;F;;SEN - Mbarigo Keur Moctar - 16.098333N16.348167W -  2 (Mbarigo Keur Moctar)
+02/01/1999;-16.35745;16.07713;Gerbillus_nigeriae;F;;SEN - Mbarigo Keur Abou - 16.077133N16.357450W -  2 (Mbarigo Keur Abou)
+02/01/1999;-16.36062;16.07147;Gerbillus_nigeriae;M;;SEN - Mbarigo GDS - 16.071467N16.360617W -  2 (Mbarigo GDS)
+02/01/1999;-16.36062;16.07147;Gerbillus_nigeriae;M;;SEN - Mbarigo GDS - 16.071467N16.360617W -  2 (Mbarigo GDS)
+02/01/1999;-16.34162;16.08800;Gerbillus_nigeriae;M;;SEN - Mbarigo/Lampsar - 16.088000N16.341617W -  2 (Mbarigo/Lampsar)
+02/01/1999;-16.34162;16.08800;Gerbillus_nigeriae;M;;SEN - Mbarigo/Lampsar - 16.088000N16.341617W -  2 (Mbarigo/Lampsar)
+02/01/1999;-16.34162;16.08800;Gerbillus_nigeriae;F;;SEN - Mbarigo/Lampsar - 16.088000N16.341617W -  2 (Mbarigo/Lampsar)
+02/01/1999;-16.34162;16.08800;Gerbillus_nigeriae;M;;SEN - Mbarigo/Lampsar - 16.088000N16.341617W -  2 (Mbarigo/Lampsar)
+02/01/1999;-16.34725;16.09445;Gerbillus_nigeriae;F;;SEN - Mbarigo/Lampsar - 16.094450N16.347250W -  2 (Mbarigo/Lampsar)
+02/01/1999;-16.35000;16.09000;Gerbillus_nigeriae;F;;SEN - Mbarigo -  -  4 (Mbarigo)
+02/01/1999;-16.35000;16.09000;Gerbillus_nigeriae;M;;SEN - Mbarigo -  -  4 (Mbarigo)
+02/01/1999;-16.35000;16.09000;Gerbillus_nigeriae;F;;SEN - Mbarigo -  -  4 (Mbarigo)
+02/01/1999;-16.35000;16.09000;Gerbillus_nigeriae;M;;SEN - Mbarigo -  -  4 (Mbarigo)
+02/01/1999;-15.91122;16.17916;Gerbillus_nigeriae;M;;SEN - Gnith -  -  3 (Gnith)
+02/01/1999;-16.35000;16.09000;Gerbillus_nigeriae;F;;SEN - Mbarigo -  -  4 (Mbarigo)
+02/01/1999;-16.35000;16.09000;Gerbillus_nigeriae;F;;SEN - Mbarigo -  -  4 (Mbarigo)
+02/01/1999;-16.35022;16.09325;Gerbillus_nigeriae;F;;SEN - Mbarigo Keur Moctar - 16.093250N16.350217W -  2 (Mbarigo Keur Moctar)
+02/01/1999;-16.35022;16.09325;Gerbillus_nigeriae;F;;SEN - Mbarigo Keur Moctar - 16.093250N16.350217W -  2 (Mbarigo Keur Moctar)
+02/01/1999;-16.34163;16.08797;Gerbillus_nigeriae;M;;SEN - Lampsar Peulh - 16.087967N16.341633W -  2 (Lampsar Peulh)
+02/01/1999;-16.34163;16.08797;Gerbillus_nigeriae;F;;SEN - Lampsar Peulh - 16.087967N16.341633W -  2 (Lampsar Peulh)
+02/01/1999;-16.34163;16.08797;Gerbillus_nigeriae;F;;SEN - Lampsar Peulh - 16.087967N16.341633W -  2 (Lampsar Peulh)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.41325;15.44972;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.449717N16.713250W -  2 (Pekh Tall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.42405;15.45327;Gerbillus_nigeriae;F;;SEN - Ndièye ndiaye - 15.453267N16.424050W -  2 (Ndièye ndiaye)
+02/01/1999;-16.42405;15.45327;Gerbillus_nigeriae;F;;SEN - Ndièye ndiaye - 15.453267N16.424050W -  2 (Ndièye ndiaye)
+02/01/1999;-16.42405;15.45327;Gerbillus_nigeriae;F;;SEN - Ndièye ndiaye - 15.453267N16.424050W -  2 (Ndièye ndiaye)
+02/01/1999;-16.42405;15.45327;Gerbillus_nigeriae;M;;SEN - Ndièye ndiaye - 15.453267N16.424050W -  2 (Ndièye ndiaye)
+02/01/1999;-16.42405;15.45327;Gerbillus_nigeriae;F;;SEN - Ndièye ndiaye - 15.453267N16.424050W -  2 (Ndièye ndiaye)
+02/01/1999;-16.42405;15.44972;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.449717N16.424050W -  2 (Pekh Tall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.42405;15.45327;Gerbillus_nigeriae;F;;SEN - Ndièye ndiaye - 15.453267N16.424050W -  2 (Ndièye ndiaye)
+02/01/1999;-16.42405;15.45327;Gerbillus_nigeriae;M;;SEN - Ndièye ndiaye - 15.453267N16.424050W -  2 (Ndièye ndiaye)
+02/01/1999;-16.40270;15.70197;Gerbillus_nigeriae;M;;SEN - Ndiambé Fall - 15.701967N16.402700W -  2 (Ndiambé Fall)
+02/01/1999;-16.40270;15.70197;Gerbillus_nigeriae;F;;SEN - Ndiambé Fall - 15.701967N16.402700W -  2 (Ndiambé Fall)
+02/01/1999;-16.40675;15.44972;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.449717N16.406750W -  2 (Pekh Tall)
+02/01/1999;-16.37058;15.68422;Gerbillus_nigeriae;M;;SEN - Mbaye-Mbaye - 15.684217N16.370583W -  2 (Mbaye-Mbaye)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;M;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;M;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;M;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;F;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;F;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;F;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;M;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.40270;15.70197;Gerbillus_nigeriae;F;;SEN - Ndiambé Fall - 15.701967N16.402700W -  2 (Ndiambé Fall)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;F;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;F;;SEN - Diapal - 15.647450N16.317833W -  2 (Diapal)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;M;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;M;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;M;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;M;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.31783;15.64745;Gerbillus_nigeriae;M;;SEN - Diapal Sarr - 15.647450N16.317833W -  2 (Diapal Sarr)
+02/01/1999;-16.35022;16.09325;Gerbillus_nigeriae;F;;SEN - Mbarigo Keur Moctar - 16.093250N16.350217W -  2 (Mbarigo Keur Moctar)
+02/01/1999;-16.34163;16.08797;Gerbillus_nigeriae;M;;SEN - Lampsar Peulh - 16.087967N16.341633W -  2 (Lampsar Peulh)
+02/01/1999;-16.34163;16.08797;Gerbillus_nigeriae;F;;SEN - Lampsar Peulh - 16.087967N16.341633W -  2 (Lampsar Peulh)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.441050N16.397027W - 2
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.441050N16.397027W - 2
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.441050N16.397027W - 2
+02/01/1999;-16.39860;15.41118;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.411183N16.398600W - 2
+02/01/1999;-16.40083;15.44694;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.446943N16.400833W - 2
+02/01/1999;-16.40083;15.44694;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.446943N16.400833W - 2
+02/01/1999;-16.40083;15.44694;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.446943N16.400833W - 2
+02/01/1999;-16.40083;15.44694;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.446943N16.400833W - 2
+02/01/1999;-16.42511;15.41119;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.411193N16.425110W - 2
+02/01/1999;-16.42511;15.41119;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.411193N16.425110W - 2
+02/01/1999;-16.42511;15.41119;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.411193N16.425110W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396277W - 2
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.441050N16.397027W - 2
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.441050N16.397027W - 2
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.441050N16.397027W - 2
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.441050N16.397027W - 2
+02/01/1999;-16.39860;15.41118;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.411183N16.398600W - 2
+02/01/1999;-16.39860;15.41118;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.411183N16.398600W - 2
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.441050N16.397033W - 2 (Pekh Tall)
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.441050N16.397033W - 2 (Pekh Tall)
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.441050N16.397033W - 2 (Pekh Tall)
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;;;SEN - Pekh Tall - 15.441050N16.397033W - 2 (Pekh Tall)
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.441050N16.397033W - 2 (Pekh Tall)
+02/01/1999;-16.40008;15.44695;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.446950N16.400083W - 2 (Pekh Tall)
+02/01/1999;-16.40008;15.44695;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.446950N16.400083W - 2 (Pekh Tall)
+02/01/1999;-16.40008;15.44695;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.446950N16.400083W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.39703;15.44105;Gerbillus_nigeriae;M;;SEN - Pekh Tall - 15.441050N16.397033W - 2 (Pekh Tall)
+02/01/1999;-16.40008;15.44695;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.446950N16.400083W - 2 (Pekh Tall)
+02/01/1999;-16.39628;15.43805;Gerbillus_nigeriae;F;;SEN - Pekh Tall - 15.438050N16.396283W - 2 (Pekh Tall)
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DCD-B
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DCD-B
+02/01/1999;-16.34907;16.09567;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DCD-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DCD-B
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.37639;16.08995;Gerbillus_nigeriae;M;;MBarigo Djeuss DNW-A
+02/01/1999;-16.37639;16.08995;Gerbillus_nigeriae;M;;MBarigo Djeuss DNW-A
+02/01/1999;-16.37697;16.08859;Gerbillus_nigeriae;F;;MBarigo Djeuss DCW-A
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;MBarigo Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;F;;MBarigo Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;MBarigo Djeuss DCW-B
+02/01/1999;-16.37697;16.08859;Gerbillus_nigeriae;F;;MBarigo Djeuss DCW-A
+02/01/1999;-16.37639;16.08995;Gerbillus_nigeriae;F;;MBarigo Djeuss DNW-A
+02/01/1999;-14.45410;16.49503;Gerbillus_nigeriae;F;;MO6bis (chasses de nuit)
+02/01/1999;-15.65978;16.44907;Gerbillus_nigeriae;M;;RDT (entre Cité Mimran et aérodrome champs à gauche)
+02/01/1999;-15.65713;16.45700;Gerbillus_nigeriae;M;;RDT (derrière terrain Golf)
+02/01/1999;-15.65713;16.45700;Gerbillus_nigeriae;F;;RDT (derrière terrain Golf)
+02/01/1999;-15.65662;16.45445;Gerbillus_nigeriae;F;;RDT (entre cité Mimran et Guy
+02/01/1999;-15.66312;16.45258;Gerbillus_nigeriae;F;;RDT (entre Cité Mimran et aérodrome)
+02/01/1999;-15.33342;15.99895;Gerbillus_nigeriae;F;;Vidou IV
+02/01/1999;-15.30228;15.97771;Gerbillus_nigeriae;F;;Vidou (environs de)
+02/01/1999;-15.30228;15.97771;Gerbillus_nigeriae;F;;Vidou (environs de)
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;M;;Vidou A
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;M;;Vidou A
+02/01/1999;-15.25333;15.96536;Gerbillus_nigeriae;F;;Vidou B
+02/01/1999;-15.33890;16.00057;Gerbillus_nigeriae;M;;Vidou II
+02/01/1999;-15.33890;16.00057;Gerbillus_nigeriae;M;;Vidou II
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;M;;Vidou A
+02/01/1999;-15.33342;15.99895;Gerbillus_nigeriae;M;;Vidou IV
+02/01/1999;-15.33342;15.99895;Gerbillus_nigeriae;M;;Vidou IV
+02/01/1999;-15.33342;15.99895;Gerbillus_nigeriae;F;;Vidou IV
+02/01/1999;-15.33342;15.99895;Gerbillus_nigeriae;M;;Vidou IV
+02/01/1999;-15.33342;15.99895;Gerbillus_nigeriae;F;;Vidou IV
+02/01/1999;-15.33890;16.00057;Gerbillus_nigeriae;M;;Vidou II
+02/01/1999;-15.33890;16.00057;Gerbillus_nigeriae;M;;Vidou II
+02/01/1999;-15.33890;16.00057;Gerbillus_nigeriae;F;;Vidou II
+02/01/1999;-15.33890;16.00057;Gerbillus_nigeriae;M;;Vidou II
+02/01/1999;-15.29737;16.00710;Gerbillus_nigeriae;F;;Vidou (Keur Diomkoya)
+02/01/1999;-15.29522;16.00705;Gerbillus_nigeriae;F;;Vidou Gadga
+02/01/1999;-15.25427;15.97475;Gerbillus_nigeriae;M;;Vidou V
+02/01/1999;-15.46667;15.35000;Gerbillus_nigeriae;F;;SEN - Dahra Djolof - 15.350000N15.466667W - 4 (Dahra Djolof)
+02/01/1999;-15.46667;15.35000;Gerbillus_nigeriae;M;;SEN - Dahra Djolof - 15.350000N15.466667W - 4 (Dahra Djolof)
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;F;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;F;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;F;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;F;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;F;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;F;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.47504;15.34898;Gerbillus_nigeriae;M;;"Dindieli (près Dahra ; environs de -)"
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;F;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;F;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;F;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;F;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;F;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;F;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;F;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;F;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-15.42400;15.32200;Gerbillus_nigeriae;M;;Dahra Djolof
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;F;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;F;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;F;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;M;;Mbarigo Keur Moctar DCD-B
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;M;;Mbarigo Keur Moctar DCD-B
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;Mbarigo Diery DND-A
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;Mbarigo Diéry DND-B
+02/01/1999;-16.34907;16.09567;Gerbillus_nigeriae;F;;Mbarigo Keur Moctar DCD-A
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;M;;Mbarigo Diéry DND-B
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;MO6BIS DND-C
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6BIS DND-A
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;MO6BIS DND-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;MO6BIS DND-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;MO6BIS DND-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;MO6BIS DND-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;MO6BIS DND-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;MO6BIS DND-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;MO6BIS DND-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;MO6BIS DND-C
+02/01/1999;-15.06580;15.85422;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,854217N15,065800E - 2 (Tessekéré)
+02/01/1999;-15.07123;15.85483;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,854833N15,071233E - 2 (Tessekéré)
+02/01/1999;-15.09507;15.87100;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,871000N15,095067E - 2 (Tessekéré)
+02/01/1999;-15.09268;15.87045;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,870450N15,092683E - 2 (Tessekéré)
+02/01/1999;-15.09265;15.86793;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,867933N15,092650E - 2 (Tessekéré)
+02/01/1999;-15.06705;15.85443;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,854433N15,067050E - 2 (Tessekéré)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.09515;15.86787;Gerbillus_nigeriae;M;;SEN - Muraille Verte - 15,867867N15,095150E - 2 (Muraille Verte)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.06282;15.85562;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,855617N15,062817E - 2 (Tessekéré)
+02/01/1999;-15.06603;15.85503;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,855033N15,066033E - 2 (Tessekéré)
+02/01/1999;-15.06428;15.85377;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,853767N15,064283E - 2 (Tessekéré)
+02/01/1999;-15.06393;15.85415;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,854150N15,063933E - 2 (Tessekéré)
+02/01/1999;-15.06393;15.85415;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,854150N15,063933E - 2 (Tessekéré)
+02/01/1999;-15.05600;15.85328;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,853283N15,056000E - 2 (Tessekéré)
+02/01/1999;-15.06485;15.85442;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,854417N15,064850E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.09515;15.86787;Gerbillus_nigeriae;M;;SEN - Muraille Verte - 15,867867N15,095150E - 2 (Muraille Verte)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.11763;15.87382;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,873817N15,117633E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-14.80965;15.83395;Gerbillus_nigeriae;M;;SEN - Labgar - 15,833950N14,809650E - 2 (Labgar)
+02/01/1999;-14.81247;15.84730;Gerbillus_nigeriae;F;;Labgar (chasse de nuit 2010)
+02/01/1999;-14.81247;15.84730;Gerbillus_nigeriae;F;;Labgar (chasse de nuit 2010)
+02/01/1999;-14.81247;15.84730;Gerbillus_nigeriae;F;;Labgar (chasse de nuit 2010)
+02/01/1999;-14.81247;15.84730;Gerbillus_nigeriae;F;;Labgar (chasse de nuit 2010)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82785;15.81925;Gerbillus_nigeriae;F;;SEN - Labgar - 15,819250N14,827850E - 2 (Labgar)
+02/01/1999;-14.80932;15.83928;Gerbillus_nigeriae;M;;SEN - Labgar - 15,839283N14,809317E - 2 (Labgar)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-15.05597;15.85935;Gerbillus_nigeriae;M;;Tessékéré (chasse de nuit 2010)
+02/01/1999;-15.05597;15.85935;Gerbillus_nigeriae;M;;Tessékéré (chasse de nuit 2010)
+02/01/1999;-15.05597;15.85935;Gerbillus_nigeriae;M;;Tessékéré (chasse de nuit 2010)
+02/01/1999;-15.05597;15.85935;Gerbillus_nigeriae;M;;Tessékéré (chasse de nuit 2010)
+02/01/1999;-15.05597;15.85935;Gerbillus_nigeriae;M;;Tessékéré (chasse de nuit 2010)
+02/01/1999;-15.05597;15.85935;Gerbillus_nigeriae;F;;Tessékéré (chasse de nuit 2010)
+02/01/1999;-15.05597;15.85935;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,859350N15,055967E - 2 (Tessekéré)
+02/01/1999;-15.05597;15.85935;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,859350N15,055967E - 2 (Tessekéré)
+02/01/1999;-15.05597;15.85935;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,859350N15,055967E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.09515;15.86787;Gerbillus_nigeriae;M;;SEN - Muraille Verte - 15,867867N15,095150E - 2 (Muraille Verte)
+02/01/1999;-15.09515;15.86787;Gerbillus_nigeriae;F;;SEN - Muraille Verte - 15,867867N15,095150E - 2 (Muraille Verte)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.09515;15.86787;Gerbillus_nigeriae;F;;SEN - Muraille Verte - 15,867867N15,095150E - 2 (Muraille Verte)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.81247;15.84730;Gerbillus_nigeriae;M;;Labgar (chasse de nuit 2010)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;F;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;F;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;M;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;M;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-14.40000;15.61667;Gerbillus_nigeriae;M;;Ndiayène (chasse de nuit 2010)
+02/01/1999;-14.40000;15.61667;Gerbillus_nigeriae;F;;Ndiayène (chasse de nuit 2010)
+02/01/1999;-14.40000;15.61667;Gerbillus_nigeriae;F;;Ndiayène (chasse de nuit 2010)
+02/01/1999;-14.40000;15.61667;Gerbillus_nigeriae;F;;Ndiayène (chasse de nuit 2010)
+02/01/1999;-14.40000;15.61667;Gerbillus_nigeriae;M;;Ndiayène (chasse de nuit 2010)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;F;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;F;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;M;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-14.39067;15.62163;Gerbillus_nigeriae;M;;SEN - Ndiayène/Revane - 15,621633N14,390667E - 2 (Ndiayène/Revane)
+02/01/1999;-14.39067;15.62163;Gerbillus_nigeriae;F;;SEN - Ndiayène/Revane - 15,621633N14,390667E - 2 (Ndiayène/Revane)
+02/01/1999;-14.39067;15.62163;Gerbillus_nigeriae;M;;SEN - Ndiayène/Revane - 15,621633N14,390667E - 2 (Ndiayène/Revane)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;M;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-14.39067;15.62163;Gerbillus_nigeriae;M;;SEN - Ndiayène/Revane - 15,621633N14,390667E - 2 (Ndiayène/Revane)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;M;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-14.39233;15.62245;Gerbillus_nigeriae;F;;SEN - Ndiayne/Revane - 15,622450N14,392333E - 2 (Ndiayne/Revane)
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37639;16.08995;Gerbillus_nigeriae;F;;MBarigo Djeuss DNW-A
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;F;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;F;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37697;16.08859;Gerbillus_nigeriae;M;;MBarigo Djeuss DCW-A
+02/01/1999;-16.37697;16.08859;Gerbillus_nigeriae;M;;MBarigo Djeuss DCW-A
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Tamakh
+02/01/1999;-16.37697;16.08859;Gerbillus_nigeriae;M;;MBarigo Djeuss DCW-A
+02/01/1999;-16.37700;16.08854;Gerbillus_nigeriae;M;;Mbarigo-Djeuss DCW-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;M;;Mbarigo Keur Moctar DCD-B
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;M;;Mbarigo Keur Moctar DCD-B
+02/01/1999;-16.34907;16.09567;Gerbillus_nigeriae;;;MBarigo Keur Moctar DCD-A
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;M;;Mbarigo Keur Moctar DCD-B
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;F;;Mbarigo Keur Moctar DCD-B
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;F;;Mbarigo Keur Moctar DCD-B
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34907;16.09567;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DCD-A
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;F;;Mbarigo Keur Moctar DCD-B
+02/01/1999;-16.34890;16.09560;Gerbillus_nigeriae;F;;Mbarigo Keur Moctar DCD-B
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34260;16.09643;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-A
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;F;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;M;;MBarigo Keur Moctar DND-B
+02/01/1999;-16.34303;16.09687;Gerbillus_nigeriae;M;;Savoigne Dune Nord DND complémentaire
+02/01/1999;-14.45013;16.50092;Gerbillus_nigeriae;F;;MO6bis DNW-B
+02/01/1999;-14.45013;16.50092;Gerbillus_nigeriae;F;;MO6bis DNW-B
+02/01/1999;-14.45013;16.50092;Gerbillus_nigeriae;M;;MO6bis DNW-B
+02/01/1999;-14.45020;16.50042;Gerbillus_nigeriae;M;;MO6bis DNW-A
+02/01/1999;-14.45020;16.50042;Gerbillus_nigeriae;F;;Savoigne Dune Nord DND complémentaire
+02/01/1999;-14.45013;16.50092;Gerbillus_nigeriae;M;;MO6bis DNW-B
+02/01/1999;-14.45020;16.50042;Gerbillus_nigeriae;M;;MO6bis DNW-A
+02/01/1999;-14.44224;16.52006;Gerbillus_nigeriae;F;;MO6bis WNW-B
+02/01/1999;-14.45013;16.50092;Gerbillus_nigeriae;F;;MO6bis DNW-B
+02/01/1999;-14.44560;16.49670;Gerbillus_nigeriae;F;;MO6bis DCW-B
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;M;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;M;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;M;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;M;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;M;;MO6bis DND-B
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;F;;MO6bis DCD-B
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;F;;MO6bis DCD-B
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;F;;MO6bis DCD-B
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;;;MO6bis DCD-B
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;M;;Tehendé Boubou Thiapato
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;F;;MO6bis DND-B
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;M;;MO6bis DCD-B
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;F;;MO6bis DCD-B
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;F;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45520;16.46531;Gerbillus_nigeriae;M;;MO6bis DND-A
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;F;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;F;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;F;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;F;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;F;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;F;;MO6bis DND-B
+02/01/1999;-14.45472;16.46550;Gerbillus_nigeriae;M;;MO6bis DND-B
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;M;;MO6bis DCD-B
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;F;;MO6bis DCD-B
+02/01/1999;-14.45960;16.46243;Gerbillus_nigeriae;M;;MO6bis DCD-B
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;F;;Mo6bis NDC-C
+02/01/1999;-14.45932;16.46988;Gerbillus_nigeriae;M;;Mo6bis NDC-C
+02/01/1999;-15.06282;15.85562;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,855617N15,062817E - 2 (Tessekéré)
+02/01/1999;-15.09515;15.86787;Gerbillus_nigeriae;M;;SEN - Muraille Verte - 15,867867N15,095150E - 2 (Muraille Verte)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82825;15.81817;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818167N14,828250E - 2 (Téssékéré)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;F;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-14.82733;15.81857;Gerbillus_nigeriae;M;;SEN - Labgar - 15,818567N14,827333E - 2 (Labgar)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;M;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-15.05475;15.89012;Gerbillus_nigeriae;F;;SEN - Tessekéré - 15,890117N15,054750E - 2 (Tessekéré)
+02/01/1999;-14.05117;15.25150;Gerbillus_nigeriae;M;;SEN - Ranérou (Samba Doguel) - 15,251500N14,051167E - 2 (Ranérou (Samba Doguel))
+02/01/1999;-14.44132;15.24663;Gerbillus_nigeriae;F;;Yonoféré (Dialloubé)
+02/01/1999;-14.10063;16.23214;Gerbillus_nigeriae;M;;Diammi Gallo
+02/01/1999;-15.32431;15.99164;Gerbillus_nigeriae;F;;Vidou C
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;M;;Vidou A
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;F;;Vidou A
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;F;;Vidou A
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;F;;Vidou A
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;F;;Vidou A
+02/01/1999;-15.32431;15.99164;Gerbillus_nigeriae;F;;Vidou C
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;M;;Vidou A
+02/01/1999;-15.25297;15.95800;Gerbillus_nigeriae;F;;Vidou A
+02/01/1999;-15.25333;15.96536;Gerbillus_nigeriae;M;;Vidou B
+02/01/1999;-15.25333;15.96536;Gerbillus_nigeriae;F;;Vidou B
+02/01/1999;-15.50733;14.80842;Gerbillus_nigeriae;F;;Tal Tal A
+02/01/1999;-15.50733;14.80842;Gerbillus_nigeriae;M;;Tal Tal A
+02/01/1999;-15.50733;14.80842;Gerbillus_nigeriae;M;;Tal Tal A
+02/01/1999;-15.53922;14.77306;Gerbillus_nigeriae;F;;Tal Tal D
+02/01/1999;-15.53922;14.77306;Gerbillus_nigeriae;F;;Tal Tal D
+02/01/1999;-15.53922;14.77306;Gerbillus_nigeriae;M;;Tal Tal D
+02/01/1999;-15.51714;14.80269;Gerbillus_nigeriae;M;;Tal Tal E
+02/01/1999;-15.52022;14.80286;Gerbillus_nigeriae;M;;Tal Tal F
+02/01/1999;-15.52022;14.80286;Gerbillus_nigeriae;F;;Tal Tal F
+02/01/1999;-15.52022;14.80286;Gerbillus_nigeriae;M;;Tal Tal F
+02/01/1999;-15.52022;14.80286;Gerbillus_nigeriae;F;;Tal Tal F
+02/01/1999;-15.18983;14.91306;Gerbillus_nigeriae;F;;Thiel A
+02/01/1999;-15.18983;14.91306;Gerbillus_nigeriae;F;;Thiel A
+02/01/1999;-15.18983;14.91306;Gerbillus_nigeriae;M;;Thiel A
+02/01/1999;-15.18983;14.91306;Gerbillus_nigeriae;F;;Thiel A
+02/01/1999;-15.18983;14.91306;Gerbillus_nigeriae;F;;Thiel A
+02/01/1999;-15.18983;14.91306;Gerbillus_nigeriae;F;;Thiel A
+02/01/1999;-14.67867;14.99381;Gerbillus_nigeriae;M;;Velingara C
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;F;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;F;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;F;;Velingara E
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;F;;Velingara E
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;F;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara B
+02/01/1999;-14.67000;14.98000;Gerbillus_nigeriae;M;;Velingara (approx)
+02/01/1999;-14.65583;14.97617;Gerbillus_nigeriae;F;;Velingara D
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;F;;Velingara E
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;F;;Velingara E
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara E
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara B
+02/01/1999;-14.68886;14.98292;Gerbillus_nigeriae;M;;Velingara B
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+02/01/2999;-14.68886;14.98292;Gerbillus_nigeriae;F;;Velingara B

@@ -1,0 +1,34 @@
+mkdir DonneesAlleliques
+mkdir GenePop
+mkdir batch_paramsXX.xml
+
+
+mv ./batch_params00.xml.donnees/0IndicateursReduit.csv ./DonneesAlleliques/0IndicateursReduit.csv
+mv ./batch_params01.xml.donnees/0IndicateursReduit.csv ./DonneesAlleliques/1IndicateursReduit.csv
+mv ./batch_params02.xml.donnees/0IndicateursReduit.csv ./DonneesAlleliques/2IndicateursReduit.csv
+mv ./batch_params03.xml.donnees/0IndicateursReduit.csv ./DonneesAlleliques/3IndicateursReduit.csv
+mv ./batch_params04.xml.donnees/0IndicateursReduit.csv ./DonneesAlleliques/4IndicateursReduit.csv
+
+
+mv ./batch_params00.xml.donnees/0Indicateurs.csv ./DonneesAlleliques/0Indicateurs.csv
+mv ./batch_params01.xml.donnees/0Indicateurs.csv ./DonneesAlleliques/1Indicateurs.csv
+mv ./batch_params02.xml.donnees/0Indicateurs.csv ./DonneesAlleliques/2Indicateurs.csv
+mv ./batch_params03.xml.donnees/0Indicateurs.csv ./DonneesAlleliques/3Indicateurs.csv
+mv ./batch_params04.xml.donnees/0Indicateurs.csv ./DonneesAlleliques/4Indicateurs.csv
+
+
+mv ./batch_params00.xml.donnees/0GenePop ./GenePop/0GenePop
+mv ./batch_params01.xml.donnees/0GenePop ./GenePop/1GenePop
+mv ./batch_params02.xml.donnees/0GenePop ./GenePop/2GenePop
+mv ./batch_params03.xml.donnees/0GenePop ./GenePop/3GenePop
+mv ./batch_params04.xml.donnees/0GenePop ./GenePop/4GenePop
+
+
+mv ./batch_params00.xml.donnees/batch_params00.xml ./batch_paramsXX.xml/batch_params00.xml
+mv ./batch_params01.xml.donnees/batch_params01.xml ./batch_paramsXX.xml/batch_params01.xml
+mv ./batch_params02.xml.donnees/batch_params02.xml ./batch_paramsXX.xml/batch_params02.xml
+mv ./batch_params03.xml.donnees/batch_params03.xml ./batch_paramsXX.xml/batch_params03.xml
+mv ./batch_params04.xml.donnees/batch_params04.xml ./batch_paramsXX.xml/batch_params04.xml
+
+
+rmdir *.donnees

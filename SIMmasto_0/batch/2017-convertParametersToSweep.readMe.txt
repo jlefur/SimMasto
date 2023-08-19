@@ -1,0 +1,19 @@
+To switch from parameters.xml file structure to sweep files (used for batch) file structure
+
+Within word
+Replace ‘displayName=’ with carriage return@
+Replace ‘type="java.lang.’ with ‘constant_type="’
+Replace ‘defaultValue=’ with ‘type="constant" value=’
+Replace ‘isReadOnly=’ with carriage return@
+Replace ‘converter=’ with @
+Replace ‘carriage return’ constant_type’ with ’ constant_type’
+Replace Integer with number; String with string; int with number
+Replace the tag <parameters> with the tag <sweep runs="1">
+Within Excel
+Add one numbered column left (for sorting)
+Sort by text line
+Remove the ‘@...’ lines
+Sort by number
+
+
+J.Le Fur 02.2017

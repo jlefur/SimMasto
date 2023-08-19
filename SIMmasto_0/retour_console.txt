@@ -1,0 +1,27 @@
+C_ContextCreator.build(): console is backed up in retour_console.txt
+C_ContextCreator.build(): 11 random number generators initialized
+C_ContextCreator.build(): Initialized time and space converter class with the ground manager 
+A_Protocol.constructor(): simulation starts on 08 nov. 2018 - 09:00:20
+08/11/2018 (tick -1):  raster: data_raster/aroundmarket
+
+08/11/2018 (tick -1): ASCII grid
+08/11/2018 (tick -1): dimensions dim-ucell: width = 586 height = 599
+08/11/2018 (tick -1): Initialized empty grid of containers
+08/11/2018 (tick -1): dimensions gridValueLayer: [586.0, 599.0]
+08/11/2018 (tick -1): dimensions continuous space:[586.0, 599.0]
+08/11/2018 (tick -1): 1.0 metres in one cell
+08/11/2018 (tick -1):  identifying land plots ...
+08/11/2018 (tick -1): 198 land plot(s) initialized
+08/11/2018 (tick -1):  Initialized visible AGENT class with their landscape 
+08/11/2018 (tick -1): 1332 land plot(s) initialized
+08/11/2018 (tick -1): Chronogram file name : 20220119-ChronoActivityAroundMarket.3a.csv
+08/11/2018 (tick -1): Start/end of breeding season
+08/11/2018 (tick -1): Chronogram file name : 20211120_Dodel2Events.2a.csv
+C_Chronogram.constructor(): 632 events loaded in memory
+08/11/2018 (tick -1): 7 inspectors defined: 
+A_Protocol.recordHeadersInFile(): step_mn;Tick;Date;HourDate;objects;PopSize;SexRatio;meanFemaleDispersal;meanMaleDispersal;maxFemaleDispersal;maxMaleDispersal;dispersedRodents;nbBirth;nbDeath;Tick;En. gerbils;En. owls;En. shrubs; En. grass; En. crop; En. trees; En. burrows;;tick;NbBurrows;wanderers(%);Tick;ObservedHetero;ExpectedHetero;FIS;MeanAllelicRichness;Tick;En. gerbils;En. owls;En. shrubs; En. grass; En. crop; En. trees; En. burrows;;Tick;Bite Number;Hibernation Average;Birth Number;Population;Borrelia;Bite Number;Hibernation Average;Birth Number;Population;NumRun
+C_ContextCreator.build(): protocol DODEL2 selected
+C_ContextCreator.build(): Building the context ended: 352456 items
+------------------------------
+Now running at 100s. per tick, ...
+C_Style2dAffinityType(): colormap not found; creating colormap Dodel 2: 24 colors identified

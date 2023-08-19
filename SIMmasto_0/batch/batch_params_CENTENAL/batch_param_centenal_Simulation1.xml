@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sweep runs="1">
+	<parameter name="PROTOCOL" type="constant" constant_type="string" value="CENTENAL"/>
+	<parameter name="VERBOSE" type="constant" constant_type="boolean" value="false"/>
+	<parameter name="RASTER_FILE" type="constant" constant_type="string" value="20140527-centenalRaster.txt"/>
+	<parameter name="CELL_WIDTH_Ucm" type="constant" constant_type="number" value="750000"/>
+	<parameter name="TICK_UNIT_Ucalendar" type="constant" constant_type="string" value="d"/>
+	<parameter name="TICK_LENGTH_Ucalendar" type="constant" constant_type="number" value="1"/>
+	<parameter name="VEHICLE_LOADING_PROBA_DIVIDER" type="constant" constant_type="number" value="1" />
+	<parameter name="randomSeed" type="constant" constant_type="number" value="1122279370" />
+	<parameter name="RODENT_SUPER_AGENT_SIZE" type="constant" constant_type="number" value="1" />
+	<parameter name="HUMAN_SUPER_AGENT_SIZE" type="constant" constant_type="number" value="1" />	
+	<parameter name="DISPLAY_MAP" type="constant" constant_type="boolean" value="false" />
+	<parameter name="TERMINATE" type="constant" constant_type="boolean" value="false" />
+	<parameter name="TRUCK_SPEED_U_KM_BY_HOUR" type="constant" constant_type="number" value="60" />
+</sweep>

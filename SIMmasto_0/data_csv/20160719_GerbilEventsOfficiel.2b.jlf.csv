@@ -1,0 +1,484 @@
+DATE EVENT;X;Y;EVENT;VALUE1;VALUE2;COMMENT
+01/01/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/04/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/05/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+20/05/1999;1;2;Gerbillus_nigeriae;M;478007;20151005-CapturesGnigeriaePE.jlf.ms
+01/06/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+20/07/1999;1;1;Gerbillus_nigeriae;M;474054;20151005-CapturesGnigeriaePE.jlf.ms
+01/08/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/09/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/04/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/05/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/08/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/09/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2000;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/04/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/05/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/08/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/09/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2001;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/04/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/05/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/08/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/09/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2002;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/04/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/05/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/08/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+25/08/2003;-15.921;16.176;owl;Gerbillus_nigeriae;53;Nguith/ G. henleyi / nigeriae remplacé par Gerbillus_nigeriae, JLF-MS, 29.10.2015
+25/08/2003;-15.921;16.176;owl;Gerbillus_nigeriae;237;Nguith, JLF-MS, 29.10.2015
+01/09/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2003;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/04/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/05/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/08/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/09/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/2004;-15.099;16.5;owl;Gerbillus_nigeriae;9;Thilé Boubacar/ G. henleyi / nigeriae remplacé par Gerbillus_nigeriae, JLF-MS, 29.10.2015
+01/10/2004;-15.099;16.5;owl;Gerbillus_nigeriae;71;Thilé Boubacar, JLF-MS, 29.10.2015
+01/10/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2004;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+17/02/2005;-14.334;16.5;owl;Gerbillus_nigeriae;30;Diomandou/ G. henleyi / nigeriae remplacé par Gerbillus_nigeriae, JLF-MS, 29.10.2015
+17/02/2005;-14.334;16.5;owl;Gerbillus_nigeriae;192;Diomandou, JLF-MS, 29.10.2015
+01/03/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/04/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/05/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+03/07/2005;-15.667;16;owl;Gerbillus_nigeriae;140;Mbar-Toubab/ G. henleyi / nigeriae remplacé par Gerbillus_nigeriae, JLF-MS, 29.10.2015
+03/07/2005;-15.667;16;owl;Gerbillus_nigeriae;77;Mbar-Toubab, JLF-MS, 29.10.2015
+13/07/2005;-15.312;15.994;owl;Gerbillus_nigeriae;18;Vidou Tiengoli, JLF-MS, 29.10.2015
+01/08/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/09/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2005;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+28/03/2006;-15.91121793;16.17916017;Gerbillus_nigeriae;M;470588;20151005-CapturesGnigeriaePE.jlf.ms
+01/04/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+24/04/2006;-15.921;16.176;owl;Gerbillus_nigeriae;30;Gnite/ G. henleyi / nigeriae remplacé par Gerbillus_nigeriae, JLF-MS, 29.10.2015
+24/04/2006;-15.921;16.176;owl;Gerbillus_nigeriae;151;Gnite, JLF-MS, 29.10.2015
+25/04/2006;-14.619;16.5;owl;Gerbillus_nigeriae;14;Ndioum/ G. henleyi / nigeriae remplacé par Gerbillus_nigeriae, JLF-MS, 29.10.2015
+25/04/2006;-14.619;16.5;owl;Gerbillus_nigeriae;20;Ndioum, JLF-MS, 29.10.2015
+25/04/2006;-15.725;16.176;owl;Gerbillus_nigeriae;5;Diaguéli/ G. henleyi / nigeriae remplacé par Gerbillus_nigeriae, JLF-MS, 29.10.2015
+25/04/2006;-15.725;16.176;owl;Gerbillus_nigeriae;160;Diaguéli, JLF-MS, 29.10.2015
+28/04/2006;-14.299;16.367;owl;Gerbillus_nigeriae;21;Haïré Lao, JLF-MS, 29.10.2015
+01/05/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/08/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/09/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2006;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/04/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/05/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/08/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/09/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2007;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/04/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/05/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/07/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/08/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/09/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2008;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/01/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/02/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/03/2009;0;0;rain;;;2016.07.19 J.Le Fur
+11/03/2009;-14.4541;16.495031;Gerbillus_nigeriae;F;41981;20151005-CapturesGnigeriaePE.jlf.ms
+01/04/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/05/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/06/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/07/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/08/2009;0;0;rain;;;2016.07.19 J.Le Fur
+09/08/2009;-15.65713333;16.457;Gerbillus_nigeriae;M;716667;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2009;-15.65713333;16.457;Gerbillus_nigeriae;F;716676;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2009;-15.65661667;16.45445;Gerbillus_nigeriae;F;716689;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2009;-15.66311667;16.45258333;Gerbillus_nigeriae;F;716693;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2009;-15.65978333;16.44906667;Gerbillus_nigeriae;M;716663;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2009;-15.33341667;15.99895;Gerbillus_nigeriae;F;716715;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.3389;16.00056667;Gerbillus_nigeriae;M;716707;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.3389;16.00056667;Gerbillus_nigeriae;M;716709;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.3389;16.00056667;Gerbillus_nigeriae;M;716717;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.3389;16.00056667;Gerbillus_nigeriae;M;716718;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.33341667;15.99895;Gerbillus_nigeriae;M;716711;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.33341667;15.99895;Gerbillus_nigeriae;M;716712;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.33341667;15.99895;Gerbillus_nigeriae;F;716713;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.33341667;15.99895;Gerbillus_nigeriae;M;716714;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.33341667;15.99895;Gerbillus_nigeriae;F;716716;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.30228138;15.97770897;Gerbillus_nigeriae;F;716695;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.30228138;15.97770897;Gerbillus_nigeriae;F;716696;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.25333333;15.96536111;Gerbillus_nigeriae;F;716702;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.25297222;15.958;Gerbillus_nigeriae;M;716697;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.25297222;15.958;Gerbillus_nigeriae;M;716700;20151005-CapturesGnigeriaePE.jlf.ms
+10/08/2009;-15.25297222;15.958;Gerbillus_nigeriae;M;716710;20151005-CapturesGnigeriaePE.jlf.ms
+11/08/2009;-15.29736667;16.0071;Gerbillus_nigeriae;F;716727;20151005-CapturesGnigeriaePE.jlf.ms
+11/08/2009;-15.29521667;16.00705;Gerbillus_nigeriae;F;716729;20151005-CapturesGnigeriaePE.jlf.ms
+11/08/2009;-15.3389;16.00056667;Gerbillus_nigeriae;F;716719;20151005-CapturesGnigeriaePE.jlf.ms
+11/08/2009;-15.3389;16.00056667;Gerbillus_nigeriae;M;716722;20151005-CapturesGnigeriaePE.jlf.ms
+11/08/2009;-15.25426667;15.97475;Gerbillus_nigeriae;M;716730;20151005-CapturesGnigeriaePE.jlf.ms
+01/09/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/10/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/11/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/12/2009;0;0;rain;;;2016.07.19 J.Le Fur
+01/01/2010;0;0;rain;;;2016.07.19 J.Le Fur
+01/02/2010;0;0;rain;;;2016.07.19 J.Le Fur
+01/03/2010;0;0;rain;;;2016.07.19 J.Le Fur
+19/03/2010;-14.45931665;16.46988334;Gerbillus_nigeriae;F;39856;20151005-CapturesGnigeriaePE.jlf.ms
+19/03/2010;-14.45931665;16.46988334;Gerbillus_nigeriae;F;39887;20151005-CapturesGnigeriaePE.jlf.ms
+19/03/2010;-14.45931665;16.46988334;Gerbillus_nigeriae;F;39888;20151005-CapturesGnigeriaePE.jlf.ms
+19/03/2010;-14.45931665;16.46988334;Gerbillus_nigeriae;M;39889;20151005-CapturesGnigeriaePE.jlf.ms
+19/03/2010;-14.45931665;16.46988334;Gerbillus_nigeriae;F;39897;20151005-CapturesGnigeriaePE.jlf.ms
+19/03/2010;-14.45931665;16.46988334;Gerbillus_nigeriae;F;39898;20151005-CapturesGnigeriaePE.jlf.ms
+19/03/2010;-14.45931665;16.46988334;Gerbillus_nigeriae;M;39899;20151005-CapturesGnigeriaePE.jlf.ms
+19/03/2010;-14.45931665;16.46988334;Gerbillus_nigeriae;F;39900;20151005-CapturesGnigeriaePE.jlf.ms
+19/03/2010;-14.45931665;16.46988334;Gerbillus_nigeriae;F;39901;20151005-CapturesGnigeriaePE.jlf.ms
+19/03/2010;-14.45519895;16.46530674;Gerbillus_nigeriae;M;39857;20151005-CapturesGnigeriaePE.jlf.ms
+01/04/2010;0;0;rain;;;2016.07.19 J.Le Fur
+01/05/2010;0;0;rain;;;2016.07.19 J.Le Fur
+01/06/2010;0;0;rain;;;2016.07.19 J.Le Fur
+01/07/2010;0;0;rain;;;2016.07.19 J.Le Fur
+01/08/2010;0;0;rain;;;2016.07.19 J.Le Fur
+04/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;F;489543;20151005-CapturesGnigeriaePE.jlf.ms
+04/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;M;489546;20151005-CapturesGnigeriaePE.jlf.ms
+04/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;M;489547;20151005-CapturesGnigeriaePE.jlf.ms
+04/08/2010;-15.09506667;15.871;Gerbillus_nigeriae;F;489487;20151005-CapturesGnigeriaePE.jlf.ms
+04/08/2010;-15.09268333;15.87045;Gerbillus_nigeriae;M;489538;20151005-CapturesGnigeriaePE.jlf.ms
+04/08/2010;-15.09265;15.86793333;Gerbillus_nigeriae;M;489539;20151005-CapturesGnigeriaePE.jlf.ms
+04/08/2010;-15.09515;15.86786667;Gerbillus_nigeriae;M;489544;20151005-CapturesGnigeriaePE.jlf.ms
+04/08/2010;-15.07123333;15.85483333;Gerbillus_nigeriae;M;489486;20151005-CapturesGnigeriaePE.jlf.ms
+04/08/2010;-15.06705;15.85443333;Gerbillus_nigeriae;F;489540;20151005-CapturesGnigeriaePE.jlf.ms
+04/08/2010;-15.0658;15.85421667;Gerbillus_nigeriae;M;489485;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.05475;15.89011667;Gerbillus_nigeriae;F;489563;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.05475;15.89011667;Gerbillus_nigeriae;M;489564;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.05475;15.89011667;Gerbillus_nigeriae;F;489566;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;M;489573;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;M;489574;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;M;489575;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;F;489576;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;F;489577;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;M;489578;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;M;489579;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.11763333;15.87381667;Gerbillus_nigeriae;F;489580;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.09515;15.86786667;Gerbillus_nigeriae;M;489571;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.06281667;15.85561667;Gerbillus_nigeriae;F;489549;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.06603333;15.85503333;Gerbillus_nigeriae;F;489552;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.06485;15.85441667;Gerbillus_nigeriae;F;489562;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.06393333;15.85415;Gerbillus_nigeriae;M;489555;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.06393333;15.85415;Gerbillus_nigeriae;F;489556;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.06428333;15.85376667;Gerbillus_nigeriae;F;489554;20151005-CapturesGnigeriaePE.jlf.ms
+06/08/2010;-15.056;15.85328333;Gerbillus_nigeriae;F;489560;20151005-CapturesGnigeriaePE.jlf.ms
+07/08/2010;-15.05475;15.89011667;Gerbillus_nigeriae;M;489595;20151005-CapturesGnigeriaePE.jlf.ms
+07/08/2010;-15.05475;15.89011667;Gerbillus_nigeriae;F;489596;20151005-CapturesGnigeriaePE.jlf.ms
+07/08/2010;-15.05475;15.89011667;Gerbillus_nigeriae;M;489597;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.8124694;15.8473;Gerbillus_nigeriae;F;489602;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.8124694;15.8473;Gerbillus_nigeriae;F;489603;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.8124694;15.8473;Gerbillus_nigeriae;F;489604;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.8124694;15.8473;Gerbillus_nigeriae;F;489605;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.80965;15.83395;Gerbillus_nigeriae;M;489598;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489532;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489615;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489616;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489617;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489620;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489621;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489622;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489608;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82825;15.81816667;Gerbillus_nigeriae;F;489618;20151005-CapturesGnigeriaePE.jlf.ms
+08/08/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489619;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.80931667;15.83928333;Gerbillus_nigeriae;M;489629;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82785;15.81925;Gerbillus_nigeriae;F;489625;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489640;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489641;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489642;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489643;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489644;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489645;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489646;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489647;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489648;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489649;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489650;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489636;20151005-CapturesGnigeriaePE.jlf.ms
+09/08/2010;-14.82825;15.81816667;Gerbillus_nigeriae;F;489637;20151005-CapturesGnigeriaePE.jlf.ms
+01/09/2010;0;0;rain;;;2016.07.19 J.Le Fur
+01/10/2010;0;0;rain;;;2016.07.19 J.Le Fur
+01/11/2010;0;0;rain;;;2016.07.19 J.Le Fur
+07/11/2010;-15.05475;15.89011667;Gerbillus_nigeriae;M;489682;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.09515;15.86786667;Gerbillus_nigeriae;M;489693;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.09515;15.86786667;Gerbillus_nigeriae;F;489694;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.05596667;15.85935;Gerbillus_nigeriae;F;489669;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.05596667;15.85935;Gerbillus_nigeriae;F;489670;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.05596667;15.85935;Gerbillus_nigeriae;F;489671;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.0559667;15.85935;Gerbillus_nigeriae;M;489652;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.0559667;15.85935;Gerbillus_nigeriae;M;489653;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.0559667;15.85935;Gerbillus_nigeriae;M;489656;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.0559667;15.85935;Gerbillus_nigeriae;M;489657;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.0559667;15.85935;Gerbillus_nigeriae;M;489659;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-15.0559667;15.85935;Gerbillus_nigeriae;F;489660;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489702;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489703;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489704;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489705;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489695;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489696;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489698;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489699;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489700;20151005-CapturesGnigeriaePE.jlf.ms
+07/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489701;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-15.05475;15.89011667;Gerbillus_nigeriae;F;489719;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-15.05475;15.89011667;Gerbillus_nigeriae;M;489720;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-15.09515;15.86786667;Gerbillus_nigeriae;F;489729;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489737;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489738;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;F;489731;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489732;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;F;489734;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489735;20151005-CapturesGnigeriaePE.jlf.ms
+08/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;M;489736;20151005-CapturesGnigeriaePE.jlf.ms
+09/11/2010;-14.8124694;15.8473;Gerbillus_nigeriae;M;489740;20151005-CapturesGnigeriaePE.jlf.ms
+09/11/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489760;20151005-CapturesGnigeriaePE.jlf.ms
+09/11/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489761;20151005-CapturesGnigeriaePE.jlf.ms
+09/11/2010;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489762;20151005-CapturesGnigeriaePE.jlf.ms
+09/11/2010;-14.82825;15.81816667;Gerbillus_nigeriae;F;489766;20151005-CapturesGnigeriaePE.jlf.ms
+01/12/2010;0;0;rain;;;2016.07.19 J.Le Fur
+01/01/2011;0;0;rain;;;2016.07.19 J.Le Fur
+01/02/2011;0;0;rain;;;2016.07.19 J.Le Fur
+01/03/2011;-15.124;16.523;owl;Gerbillus_nigeriae;6;Thilé Boubacar, JLF-MS, 29.10.2015
+01/03/2011;0;0;rain;;;2016.07.19 J.Le Fur
+16/03/2011;-14.45013333;16.50091667;Gerbillus_nigeriae;F;37799;20151005-CapturesGnigeriaePE.jlf.ms
+16/03/2011;-14.45013333;16.50091667;Gerbillus_nigeriae;F;37800;20151005-CapturesGnigeriaePE.jlf.ms
+16/03/2011;-14.45013333;16.50091667;Gerbillus_nigeriae;M;37801;20151005-CapturesGnigeriaePE.jlf.ms
+16/03/2011;-14.4502;16.50041667;Gerbillus_nigeriae;M;37802;20151005-CapturesGnigeriaePE.jlf.ms
+17/03/2011;-14.44224036;16.5200616;Gerbillus_nigeriae;F;37837;20151005-CapturesGnigeriaePE.jlf.ms
+17/03/2011;-14.45013333;16.50091667;Gerbillus_nigeriae;M;37828;20151005-CapturesGnigeriaePE.jlf.ms
+17/03/2011;-14.4502;16.50041667;Gerbillus_nigeriae;M;37829;20151005-CapturesGnigeriaePE.jlf.ms
+18/03/2011;-14.45013333;16.50091667;Gerbillus_nigeriae;F;37853;20151005-CapturesGnigeriaePE.jlf.ms
+20/03/2011;-14.4456;16.4967;Gerbillus_nigeriae;F;37932;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37969;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37970;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37971;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37972;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37973;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37974;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37975;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37976;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37977;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37978;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37979;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37980;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37981;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37982;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37984;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37985;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37986;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37987;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37988;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37989;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37990;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37991;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37992;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37993;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;37994;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37995;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;37996;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;M;37997;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;M;37998;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;M;37999;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;M;38000;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;M;38001;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38002;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38003;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38005;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38006;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38008;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38010;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38011;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.4596;16.46243333;Gerbillus_nigeriae;F;38031;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.4596;16.46243333;Gerbillus_nigeriae;F;38033;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.4596;16.46243333;Gerbillus_nigeriae;F;38034;20151005-CapturesGnigeriaePE.jlf.ms
+22/03/2011;-14.4596;16.46243333;Gerbillus_nigeriae;;38035;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38067;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38068;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38069;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38070;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38071;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38072;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38073;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38074;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38075;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38076;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38077;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38078;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38079;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38080;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;F;38090;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38081;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38082;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;;38083;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38084;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38085;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38086;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38087;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38088;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38089;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.4596;16.46243333;Gerbillus_nigeriae;M;38104;20151005-CapturesGnigeriaePE.jlf.ms
+23/03/2011;-14.4596;16.46243333;Gerbillus_nigeriae;F;38105;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38124;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38125;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38126;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38127;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38128;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38130;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38131;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38133;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38134;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38135;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38136;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38137;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38138;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;F;38153;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;F;38154;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;F;38155;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;F;38156;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;F;38157;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;F;38158;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45471758;16.46549734;Gerbillus_nigeriae;M;38159;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38139;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38140;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38147;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38148;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;F;38149;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38150;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38151;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.45519895;16.46530674;Gerbillus_nigeriae;M;38152;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.4596;16.46243333;Gerbillus_nigeriae;M;38170;20151005-CapturesGnigeriaePE.jlf.ms
+24/03/2011;-14.4596;16.46243333;Gerbillus_nigeriae;F;38171;20151005-CapturesGnigeriaePE.jlf.ms
+01/04/2011;0;0;rain;;;2016.07.19 J.Le Fur
+23/04/2011;-14.4596;16.46243333;Gerbillus_nigeriae;M;38103;20151005-CapturesGnigeriaePE.jlf.ms
+01/05/2011;0;0;rain;;;2016.07.19 J.Le Fur
+22/05/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;;37983;20151005-CapturesGnigeriaePE.jlf.ms
+24/05/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;F;38129;20151005-CapturesGnigeriaePE.jlf.ms
+24/05/2011;-14.45931667;16.46988333;Gerbillus_nigeriae;M;38132;20151005-CapturesGnigeriaePE.jlf.ms
+01/06/2011;0;0;rain;;;2016.07.19 J.Le Fur
+01/07/2011;0;0;rain;;;2016.07.19 J.Le Fur
+17/07/2011;-15.05475;15.89011667;Gerbillus_nigeriae;M;489886;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-15.05475;15.89011667;Gerbillus_nigeriae;F;489887;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-15.05475;15.89011667;Gerbillus_nigeriae;F;489892;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-15.09515;15.86786667;Gerbillus_nigeriae;M;489836;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-15.06281667;15.85561667;Gerbillus_nigeriae;M;489826;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489852;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489853;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489854;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489855;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82733333;15.81856667;Gerbillus_nigeriae;F;489859;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82733333;15.81856667;Gerbillus_nigeriae;M;489861;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82825;15.81816667;Gerbillus_nigeriae;F;489839;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82825;15.81816667;Gerbillus_nigeriae;F;489840;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82825;15.81816667;Gerbillus_nigeriae;F;489842;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82825;15.81816667;Gerbillus_nigeriae;M;489844;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82825;15.81816667;Gerbillus_nigeriae;F;489845;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82825;15.81816667;Gerbillus_nigeriae;F;489846;20151005-CapturesGnigeriaePE.jlf.ms
+17/07/2011;-14.82825;15.81816667;Gerbillus_nigeriae;M;489848;20151005-CapturesGnigeriaePE.jlf.ms
+01/08/2011;0;0;rain;;;2016.07.19 J.Le Fur
+01/09/2011;0;0;rain;;;2016.07.19 J.Le Fur
+25/09/2011;-14.412;16.495;owl;Gerbillus_nigeriae;2;Dodel/ G. henleyi / nigeriae remplacé par Gerbillus_nigeriae, JLF-MS, 29.10.2015
+25/09/2011;-14.412;16.495;owl;Gerbillus_nigeriae;13;Dodel, JLF-MS, 29.10.2015
+01/10/2011;0;0;rain;;;2016.07.19 J.Le Fur
+01/11/2011;0;0;rain;;;2016.07.19 J.Le Fur
+10/11/2011;-15.952;16.121;owl;Gerbillus_nigeriae;3;Nguith/ G. henleyi / nigeriae remplacé par Gerbillus_nigeriae, JLF-MS, 29.10.2015
+10/11/2011;-15.952;16.121;owl;Gerbillus_nigeriae;19;Nguith, JLF-MS, 29.10.2015
+10/11/2011;-15.952;16.121;owl;Taterillus;3;Nguith, JLF-MS, 29.10.2015
+01/12/2011;0;0;rain;;;2016.07.19 J.Le Fur
+01/01/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/02/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/03/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/04/2012;0;0;rain;;;2016.07.19 J.Le Fur
+06/04/2012;-14.100628;16.232136;Gerbillus_nigeriae;M;45214;20151005-CapturesGnigeriaePE.jlf.ms
+01/05/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/06/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/07/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/08/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/09/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/10/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/11/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/12/2012;0;0;rain;;;2016.07.19 J.Le Fur
+01/01/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/02/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/03/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/04/2013;0;0;rain;;;2016.07.19 J.Le Fur
+23/04/2013;-15.32430556;15.99163889;Gerbillus_nigeriae;F;559602;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.32430556;15.99163889;Gerbillus_nigeriae;F;559609;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.25333333;15.96536111;Gerbillus_nigeriae;M;559612;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.25333333;15.96536111;Gerbillus_nigeriae;F;559614;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.25297222;15.958;Gerbillus_nigeriae;M;559604;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.25297222;15.958;Gerbillus_nigeriae;F;559605;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.25297222;15.958;Gerbillus_nigeriae;F;559606;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.25297222;15.958;Gerbillus_nigeriae;F;559607;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.25297222;15.958;Gerbillus_nigeriae;F;559608;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.25297222;15.958;Gerbillus_nigeriae;M;559610;20151005-CapturesGnigeriaePE.jlf.ms
+23/04/2013;-15.25297222;15.958;Gerbillus_nigeriae;F;559611;20151005-CapturesGnigeriaePE.jlf.ms
+01/05/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/06/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/07/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/08/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/09/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/10/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/11/2013;0;0;rain;;;2016.07.19 J.Le Fur
+01/12/2013;0;0;rain;;;2016.07.19 J.Le Fur

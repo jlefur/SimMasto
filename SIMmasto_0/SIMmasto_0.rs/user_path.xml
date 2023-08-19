@@ -1,0 +1,25 @@
+<model name="SIMmasto0">
+	<classpath>
+		<agents path="../bin, ../bin-groovy" filter="thing.ground.C_SoilCellSavanna" />
+		<agents path="../bin, ../bin-groovy" filter="thing.ground.C_SoilCellWall" />
+		<agents path="../bin, ../bin-groovy" filter="thing.ground.C_Vegetation" />
+		<agents path="../bin, ../bin-groovy" filter="thing.ground.C_Trap" />
+		<agents path="../bin, ../bin-groovy" filter="thing.ground.C_Vehicle" />
+		<agents path="../bin, ../bin-groovy" filter="thing.ground.C_City" />
+		<agents path="../bin, ../bin-groovy" filter="thing.ground.C_Market" />
+		<agents path="../bin, ../bin-groovy" filter="thing.ground.C_LandPlot" />
+		<agents path="../bin, ../bin-groovy" filter="thing.C_Rodent" />
+		<agents path="../bin, ../bin-groovy" filter="thing.C_OrnitodorosSonrai" />
+		<agents path="../bin, ../bin-groovy" filter="thing.C_HumanCarrier" />
+		<agents path="../bin, ../bin-groovy" filter="simmasto0.protocol.A_Protocol" />
+<!-- 		<agents path="../bin, ../bin-groovy" filter="simmasto0.protocol.C_ProtocolCage" /> -->
+		<agents path="../bin, ../bin-groovy" filter="presentation.epiphyte.C_Inspector" />
+		<agents path="../bin, ../bin-groovy" filter="presentation.epiphyte.C_InspectorHybrid" />
+		<agents path="../bin, ../bin-groovy" filter="presentation.epiphyte.C_InspectorGenetic" />
+		<agents path="../bin, ../bin-groovy" filter="presentation.epiphyte.C_InspectorCentenal" />
+		<agents path="../bin, ../bin-groovy" filter="presentation.display.C_CustomPanelSet" />
+		<agents path="../bin, ../bin-groovy" filter="presentation.display.C_UserPanel" />
+		<agents path="../bin, ../bin-groovy" filter="presentation.display.C_Background" />
+		<agents path="../bin, ../bin-groovy" filter="presentation.display.C_IconNightDay" />
+	</classpath>
+</model>

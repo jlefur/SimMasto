@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sweep runs="3">
+ <parameter constant_type="boolean" name="VERBOSE" type="constant" value="false" />
+ <parameter constant_type="string" name="RASTER_FILE" type="constant" 
+ value="CENTENAL/20130621-SenCentenalCarte1910.PAM.txt" />
+ <parameter constant_type="number" name="CELL_WIDTH_Ucm" displayName=" " type="constant" value="750000" />
+ <parameter constant_type="number" name="INIT_POP_SIZE" type="constant" value="0" />
+ <parameter constant_type="boolean" name="EXCLOS" type="constant" value="false" />
+ <parameter constant_type="boolean" name="BURROW_SYSTEM" type="constant" value="false" />
+ <parameter constant_type="number" name="NUMBER_OF_BURROW_SYSTEM" type="constant" value="0" />
+<parameter constant_type="boolean" name="PERSISTANCE_BURROW" type="constant" value="false" />
+<!--  <parameter constant_type="number" name="randomSeed" displayName="" type="int" defaultValue="1122279370" />-->
+ <parameter constant_type="number" name="MAX_AGE_Uday" type="constant" value="10000" />
+ <parameter constant_type="number" name="AGENT_PERCEPTION_RADIUS_UmeterByDay" type="constant" value="30." />
+ <parameter constant_type="number" name="AGENT_SPEED_UmeterByDay" type="constant" value="2" />
+ <parameter constant_type="number" name="REPRO_START_Umonth" type="constant" value="03" />
+ <parameter constant_type="number" name="REPRO_END_Umonth" type="constant" value="09" />
+ <parameter constant_type="number" name="MALE_SEXUAL_MATURITY_Uday" type="constant" value="45" />
+ <parameter constant_type="number" name="FEMALE_SEXUAL_MATURITY_Uday" type="constant" value="39" />
+</sweep>

@@ -1,0 +1,16 @@
+Ceci est le modèle SIMmasto_0. Pout toute question contacter jean.lefur@ird.fr
+
+le dépot SIMmasto_0 contient toute l'application
+Le modèle fonctionne sous Eclipse avec la plate-forme Repast-Simphony version 2.7
+installer Repast-Simphony-2.7-win64.exe qui se trouve dans la racine de la distribution - l'exécutable installe aussi Eclipse
+
+
+Il faut auparavant configurer le lancement: aller dans le menu run configuration puis configurer une application SimMastoModel avec les paramètres suivants: 
+	* main class: repast.simphony.runtime.RepastMain
+	* Program arguments: "${workspace_loc:SIMmasto_0}/SIMmasto_0.rs"
+	* VM arguments: -Xms4096M
+
+Pour le lancement :
+     - executer d'abord le code java C_ChooseProtocol qui se trouve dans le package simmasto0. 
+       L'application vous permet de choisir le protocole à configurer (il modifie les fichiers scenario.xml et parameters.xml dans le dossier SIMmasto_0.rs).
+     - executer ensuite le modele SIMmasto_0 model: il faut pour cela lancer l'application

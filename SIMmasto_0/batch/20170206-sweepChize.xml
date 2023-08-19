@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- fileName : parameters.xml -->
+<!-- protocolName : CHIZE -->
+<!-- Conditions de simulation -->
+<sweep runs="1">
+<parameter name="PROTOCOL"				constant_type="string" type="constant" value="CHIZE"/>
+<parameter name="VERBOSE"				constant_type="boolean" type="constant" value="false"/>
+<parameter name="TERMINATE"				constant_type="boolean" type="constant" value="false"/>
+<parameter name="DISPLAY_MAP"				constant_type="boolean" type="constant" value="false"/>
+<parameter name="BLACK_MAP"				constant_type="boolean" type="constant" value="false"/>
+<parameter name="RASTER_FILE"			constant_type="string" type="constant" value="20170222-ChizeCrops.2a.txt"/>
+  <parameter constant_type="number" name="TICK_LENGTH_Ucalendar" type="number" start="10" end="10" step="10"/>
+<parameter name="TICK_UNIT_Ucalendar"	constant_type="string" type="constant" value="m"/>
+<parameter name="CELL_WIDTH_Ucm"		constant_type="number" type="constant" value="748"/>
+<parameter name="INIT_POP_SIZE"			constant_type="number" type="constant" value="444"/>
+<parameter name="NUMBER_OF_BURROW_SYSTEM" constant_type="number" type="constant" value="50"/>
+<parameter name="PERSISTANCE_BURROW"	constant_type="boolean" type="constant" value="false"/>
+<parameter name="randomSeed"			constant_type="number" type="constant" value="1122279370"/>
+<!-- caractéristiques végétatives -->
+<!-- reproduction (les mois sont avec janvier =00.) -->/>
+<parameter name="REPRO_START_Umonth"	constant_type="number" type="constant" value="03"/>
+<parameter name="REPRO_END_Umonth"		constant_type="number" type="constant" value="09"/>
+</sweep>

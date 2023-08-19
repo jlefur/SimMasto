@@ -1,0 +1,17 @@
+Package: ECmexico2012
+Type: Package
+Title: Ecole-Chercheur Mexico 2012
+Version: 1.0-0
+Date: 2012-05-24
+Author: EC-Mexico-2012
+Maintainer: Herve Monod <herve.monod@jouy.inra.fr>
+Depends: R (>= 1.8.0), sensitivity, akima, car, evd, lhs, mgcv, rgl,
+        triangle
+Suggests: orthopolynom
+Description: ECmexico2012
+License: GPL
+LazyLoad: yes
+Collate: 'ECmexico2012-package.R' 'TPLibModels.R' 'TPLibUtile.R'
+        'TPLibData.R'
+Encoding: latin1
+Packaged: 2012-05-24 14:08:26 UTC; hmonod

@@ -1,0 +1,63 @@
+<parameters>
+
+	<!-- Conditions de simulation -->
+
+	<parameter name="VERBOSE" displayName="00/ Display events on console"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="RASTER_FILE" displayName="00a/grid filename"
+		type="java.lang.String" defaultValue="grille-test.1d.txt" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	<parameter name="CELL_WIDTH_Ucm" displayName="00b/ nb centimeters in one pixel"
+		type="java.lang.Integer" defaultValue="748" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="INIT_POP_SIZE" displayName="01/ Population size (indiv.)"
+		type="java.lang.Integer" defaultValue="10" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="EXCLOS" displayName="02/ Metapopulation(exclos)"
+		type="boolean" defaultValue="true" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="BURROW_SYSTEM" displayName="03/ Burrow systems"
+		type="boolean" defaultValue="true" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="NUMBER_OF_BURROW_SYSTEM" displayName="04/ Nb burrow systems"
+		type="java.lang.Integer" defaultValue="50" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="PERSISTANCE_BURROW" displayName="05/ Burrows persist"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="randomSeed" displayName="05b/ Default Random Seed"
+		type="int" defaultValue="1122279370" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" /><!-- 
+		default value = "__NULL__" => graine aleatoire -->
+
+	<!-- caractéristiques végétatives -->
+
+	<parameter name="MAX_AGE_Uday" displayName="06/ Agents max age (ticks)"
+		type="java.lang.Integer" defaultValue="600" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="AGENT_PERCEPTION_RADIUS_UmeterByDay" displayName="07/ Agent sensing (meters)"
+		type="java.lang.Integer" defaultValue="30" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="AGENT_SPEED_UmeterByDay" displayName="08/ Agent speed (m/tick)"
+		type="java.lang.Integer" defaultValue="2" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+
+	<!-- reproduction (les mois sont avec janvier =00.) -->
+
+	<parameter name="REPRO_START_Umonth" displayName="09/ Reprod. season start (month, Jan=0)"
+		type="java.lang.Integer" defaultValue="03" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="REPRO_END_Umonth" displayName="10/ Reprod. season  end(month, Jan=0)"
+		type="java.lang.Integer" defaultValue="09" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="MALE_SEXUAL_MATURITY_Uday" displayName="11/ Male sexual maturity (ticks)"
+		type="java.lang.Integer" defaultValue="45" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="FEMALE_SEXUAL_MATURITY_Uday" displayName="12 / Female sexual maturity (ticks)"
+		type="java.lang.Integer" defaultValue="39" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+
+</parameters>
+
+

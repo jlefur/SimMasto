@@ -1,0 +1,13 @@
+;VEHICLE_LOADING_PROBA_DIVIDER
+batch_params000.xml;1
+batch_params001.xml;10
+batch_params002.xml;100
+batch_params003.xml;500
+batch_params004.xml;1000
+batch_params005.xml;5000
+batch_params006.xml;10000
+batch_params007.xml;20000
+batch_params008.xml;50000
+batch_params009.xml;100000
+batch_params010.xml;500000
+batch_params011.xml;1000000

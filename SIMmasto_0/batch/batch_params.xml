@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sweep runs="1">
+	<parameter name="PROTOCOL" constant_type="string" type="constant" value="CENTENAL" />
+	<parameter name="VERBOSE" constant_type="boolean" type="constant" value="false" />
+	<parameter name="RASTER_FILE" constant_type="string" type="constant" value="20140527-centenalRaster.txt" />
+	<parameter name="CELL_WIDTH_Ucm" constant_type="number" type="constant" value="750000" />
+	<parameter name="TICK_LENGTH_Ucalendar" constant_type="number" type="constant" value="1" />
+	<parameter name="TICK_UNIT_Ucalendar" constant_type="string" type="constant" value="d" />
+	<parameter name="HC_ACTIVITY_RATIO" constant_type="number" type="constant" value="60" />
+	<parameter name="HC_TOTAL_TIME_LENGTH_Ucalendar" constant_type="number" type="constant" value="6" />
+	<parameter name="HC_ACTIVITY_TIME_UNIT_Ucalendar" constant_type="string" type="constant" value="mon" />
+	<parameter name="VEHICLE_LOADING_PROBA_DIVIDER" constant_type="number" type="constant" value="50" />
+	<parameter name="RODENT_SUPER_AGENT_SIZE" constant_type="number" type="constant" value="1" />
+	<parameter name="HUMAN_SUPER_AGENT_SIZE" constant_type="number" type="constant" value="1" />
+		<parameter name="HUMAN_CARRIER_MULTIPLY" constant_type="number" type="constant" value="1" />
+	<parameter name="randomSeed" constant_type="number" type="constant" value="1122279370" />
+</sweep>
+

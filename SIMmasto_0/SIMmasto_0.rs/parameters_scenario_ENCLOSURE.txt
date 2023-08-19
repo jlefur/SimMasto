@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- fileName : parameters.xml -->
+<!-- protocolName : ENCLOSURE -->
+<parameters>
+
+	<!-- Conditions de simulation -->
+
+	<parameter name="PROTOCOL" displayName="00/ PROTOCOL"
+				type="java.lang.String" defaultValue="ENCLOSURE" isReadOnly="true"
+				converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+				<parameter name="TICK_LENGTH_Ucalendar" displayName="TICK_LENGTH_Ucalendar"
+				type="java.lang.Integer" defaultValue="1" isReadOnly="false"
+				converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+			<parameter name="TICK_UNIT_Ucalendar" displayName="TICK_UNIT_Ucalendar"
+				type="java.lang.String" defaultValue="D" isReadOnly="false"
+				converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	<parameter name="VERBOSE" displayName="00/ Display more events on console and map"
+		type="boolean" defaultValue="true" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="RASTER_FILE" displayName="00a/grid filename"
+		type="java.lang.String" defaultValue="20120525-MbourEnclos.JLF.txt" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+		<!--type="java.lang.String" defaultValue="ChizeCrops.1b.txt" isReadOnly="false"-->
+	<parameter name="CELL_WIDTH_Ucm" displayName="00b/ nb centimeters in one pixel"
+		type="java.lang.Integer" defaultValue="50" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="INIT_POP_SIZE" displayName="01/ Population size (indiv.)"
+		type="java.lang.Integer" defaultValue="40" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="NUMBER_OF_BURROW_SYSTEM" displayName="04/ Nb burrow systems"
+		type="java.lang.Integer" defaultValue="11" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="PERSISTANCE_BURROW" displayName="05/ Burrows persist"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="randomSeed" displayName="05b/ Default Random Seed (unused)"
+		type="int" defaultValue="1122279370" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" /><!-- 
+		default value = "__NULL__" => graine aleatoire -->
+
+	<!-- reproduction (les mois sont avec janvier =00.) -->
+
+	<parameter name="REPRO_START_Umonth" displayName="09/ Reprod. season start (month, Jan=0)"
+		type="java.lang.Integer" defaultValue="03" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="REPRO_END_Umonth" displayName="10/ Reprod. season  end(month, Jan=0)"
+		type="java.lang.Integer" defaultValue="07" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="MALE_SEXUAL_MATURITY_Uday" displayName="11/ Male sexual maturity (ticks)"
+		type="java.lang.Integer" defaultValue="75" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="FEMALE_SEXUAL_MATURITY_Uday" displayName="12 / Female sexual maturity (ticks)"
+		type="java.lang.Integer" defaultValue="75" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+			<parameter name="TERMINATE" displayName="04e/ Terminate simulation"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+			<parameter name="DISPLAY_MAP" displayName="00b/ Display map over grounds"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+
+</parameters>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- fileName : scenario.xml -->
+<!-- protocolName : ENCLOSURE -->
+<Scenario>
+	<repast.simphony.dataLoader.engine.ClassNameDataLoaderAction context="SIMmasto0" file="repast.simphony.dataLoader.engine.ClassNameDataLoaderAction_0.xml" />
+	<repast.simphony.action.display context="SIMmasto0" file="repast.simphony.action.display_Chize.xml" />
+	<repast.simphony.userpanel.ui.DefaultUserPanelDescriptorAction context="SIMmasto0" file="repast.simphony.userpanel.ui.DefaultUserPanelDescriptorAction_0.xml" />
+	<model.initializer class="presentation.display.C_CustomPanelSet" />
+</Scenario>

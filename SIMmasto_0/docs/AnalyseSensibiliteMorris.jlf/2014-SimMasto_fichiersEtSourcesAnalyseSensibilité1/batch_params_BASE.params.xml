@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sweep runs="1">
+   <parameter constant_type="number" name="randomSeed" type="constant" value="1122279370"/> 
+   <parameter constant_type="boolean" name="VERBOSE" type="constant" value="false"/>
+  <parameter constant_type="string" name="RASTER_FILE" type="constant" value="ChizeCrops.1b.txt"/>
+  <parameter constant_type="boolean" name="EXCLOS" type="constant" value="true"/>
+  <parameter constant_type="boolean" name="BURROW_SYSTEM" type="constant" value="false"/>
+  <parameter constant_type="boolean" name="PERSISTANCE_BURROW" type="constant" value="false"/> 
+  <parameter constant_type="number" name="CARRYING_CAPACITY_MULTIPLIER" type="constant" value="2"/>
+  <parameter constant_type="number" name="MAX_AGE_Uday" type="constant" value="600" />
+  <parameter constant_type="number" name="GAUSSIAN_RANDOM_SEED" type="constant" value="2000000" /> 
+  <parameter constant_type="number" name="CULTURE_RANDOM_SEED" type="constant" value="3600000" /> 
+  <parameter constant_type="number" name="DEATH_PROB_RANDOM_SEED" type="constant" value="4800000" /> 
+  <parameter constant_type="number" name="DESTINATION_RANDOM_SEED" type="constant" value="5000000" /> 
+  <parameter constant_type="number" name="DNA_RANDOM_SEED" type="constant" value="7600000" /> 
+  <parameter constant_type="number" name="GAMETE_RANDOM_SEED" type="constant" value="8400000" /> 
+  <parameter constant_type="number" name="INITIALISATION_RANDOM_SEED" type="constant" value="9000000" /> 
+  <parameter constant_type="number" name="MOVEMENT_RANDOM_SEED" type="constant" value="11000000" /> 
+</sweep>
+

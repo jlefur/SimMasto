@@ -1,0 +1,7 @@
+numéro;type;speed_Umeter_UmetersByTick;rodentMaxLoad;loadingProba in percent
+0;CAMION;17100;30;95
+1;CAMIONNETTE;19000;3;20
+2;MINIBUS;26600;5;30
+3;VOITURE;22800;1;95
+4;TRAIN;7600;300;98
+5;BOAT;9500;30;99

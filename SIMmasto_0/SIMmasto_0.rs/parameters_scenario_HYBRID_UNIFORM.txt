@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- fileName : parameters.xml -->
+<!-- protocolName : HYBRID_UNIFORM -->
+<parameters>
+
+	<!-- COMMON INTER-PROTOCOLS -->
+	<!-- Time scale -->
+	<parameter name="TICK_UNIT_Ucalendar" displayName="0a/ Tick unit (ms,s,m,h,d,mon,y)"
+		type="java.lang.String" defaultValue="h" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	<parameter name="TICK_LENGTH_Ucalendar" displayName="0b/ Tick length"
+		type="java.lang.Integer" defaultValue="3" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="CELL_WIDTH_Ucm" displayName="0c/ nb centimeters in one pixel (default=exact scale)"
+		type="java.lang.Integer" defaultValue="500" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+
+	<!-- Switches -->
+	<parameter name="BLACK_MAP" displayName="0d/ Black map" type="boolean"
+		defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="VERBOSE" displayName="0e/ Display more events on map and console"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="DISPLAY_MAP" displayName="0f/ Display map and caption above ground"
+		type="boolean" defaultValue="true" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="IMAGE" displayName="0g/ ICONS (display objects using icons)"
+		type="boolean" defaultValue="true" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+		
+	<!-- PROTOCOL DEPENDENT -->
+	<parameter name="PROTOCOL" displayName="1a/ _________ PROTOCOL SPECIFIC _________"
+		type="java.lang.String" defaultValue="HYBRID_UNIFORM" isReadOnly="true"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+	<parameter name="PERSISTANCE_BURROW" displayName="1b/ Burrows persist"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="EXCLOS" displayName="1c/ Metapopulation(exclos)"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="INIT_POP_SIZE" displayName="1d/ Initialization: Population size (indiv.)"
+		type="java.lang.Integer" defaultValue="111" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="NUMBER_OF_BURROW_SYSTEM" displayName="1e/ Initialization: Nb burrow systems"
+		type="java.lang.Integer" defaultValue="100" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+
+	<!-- reproduction (months using january=00.) -->
+	<parameter name="REPRO_START_Umonth" displayName="1f/ Reprod. season start (month, Jan=0)"
+		type="java.lang.Integer" defaultValue="01" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+	<parameter name="REPRO_END_Umonth" displayName="1g/ Reprod. season end(month, Jan=0)"
+		type="java.lang.Integer" defaultValue="10" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" />
+
+	<parameter name="RASTER_FILE" displayName="1h/grid filename"
+		type="java.lang.String" defaultValue="grilleBandia.2c.txt" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter" />
+
+	<!-- SIMULATION SETTING -->
+	<parameter name="TERMINATE" displayName="2a/ Terminate simulation"
+		type="boolean" defaultValue="false" isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter" />
+	<parameter name="randomSeed" displayName="2b/ Default Random Seed (unused)"
+		type="int" defaultValue="1122279370" isReadOnly="true"
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter" /><!-- 
+		default value = "__NULL__" => graine aleatoire -->
+
+</parameters>
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- fileName : scenario.xml -->
+<!-- protocolName : HYBRID_UNIFORM -->
+<Scenario>
+	<repast.simphony.dataLoader.engine.ClassNameDataLoaderAction context="SIMmasto0" file="repast.simphony.dataLoader.engine.ClassNameDataLoaderAction_0.xml" />
+	<repast.simphony.action.display context="SIMmasto0" file="repast.simphony.action.display_HybridUniform.xml" />
+	<repast.simphony.userpanel.ui.DefaultUserPanelDescriptorAction context="SIMmasto0" file="repast.simphony.userpanel.ui.DefaultUserPanelDescriptorAction_0.xml" />
+	<model.initializer class="presentation.display.C_CustomPanelSet" />
+</Scenario>

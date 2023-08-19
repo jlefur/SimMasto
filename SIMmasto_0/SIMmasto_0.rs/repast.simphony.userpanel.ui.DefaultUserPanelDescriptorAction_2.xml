@@ -1,0 +1,4 @@
+<repast.simphony.userpanel.ui.DefaultUserPanelDescriptor simphonyVersion="2.6.0">
+  <name>Tableau de bord</name>
+  <userPanelCreator>presentation.display.C_UserPanel</userPanelCreator>
+</repast.simphony.userpanel.ui.DefaultUserPanelDescriptor>

@@ -1,0 +1,29 @@
+DATE EVENT;X;Y;EVENT;VALUE1;VALUE2;COMMENT
+01/01/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/02/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/03/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+05/03/1999;2;1;Gerbillus_nigeriae;F;478005;20151005-CapturesGnigeriaePE.jlf.ms
+05/03/1999;2;0;Gerbillus_nigeriae;F;478005;20151005-CapturesGnigeriaePE.jlf.ms
+05/03/1999;0;1;Gerbillus_nigeriae;F;478005;20151005-CapturesGnigeriaePE.jlf.ms
+05/03/1999;2;1;Gerbillus_nigeriae;M;478005;20151005-CapturesGnigeriaePE.jlf.ms
+05/03/1999;2;1;Gerbillus_nigeriae;F;478005;20151005-CapturesGnigeriaePE.jlf.ms
+01/04/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+10/04/1999;-15.6355;16.428;Gerbillus_nigeriae;M;478007;20151005-CapturesGnigeriaePE.jlf.ms
+01/05/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/06/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+05/06/1999;0;2;owl;Gerbillus_nigeriae;4;20151005-CapturesGnigeriaePE.jlf.ms
+05/06/1999;0;1;owl;Gerbillus_nigeriae;44;20151005-CapturesGnigeriaePE.jlf.ms
+01/07/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+05/07/1999;1;2;owl;Gerbillus_nigeriae;14;20151005-CapturesGnigeriaePE.jlf.ms
+05/07/1999;2;1;owl;Gerbillus_nigeriae;99;20151005-CapturesGnigeriaePE.jlf.ms
+05/07/1999;1;1;owl;Gerbillus_nigeriae;144;20151005-CapturesGnigeriaePE.jlf.ms
+05/07/1999;1;0;owl;Gerbillus_nigeriae;24;20151005-CapturesGnigeriaePE.jlf.ms
+05/07/1999;0;0;owl;Gerbillus_nigeriae;204;20151005-CapturesGnigeriaePE.jlf.ms
+05/07/1999;2;2;owl;Gerbillus_nigeriae;24;20151005-CapturesGnigeriaePE.jlf.ms
+01/08/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+05/08/1999;2;0;owl;Gerbillus_nigeriae;54;20151005-CapturesGnigeriaePE.jlf.ms
+01/09/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/10/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/11/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/1999;0;0;rain;;;2015.10.29 M.Sall & J.Le Fur
+01/12/2150;-15.6355;16.428;Gerbillus_nigeriae;M;478007;20151005-CapturesGnigeriaePE.jlf.ms

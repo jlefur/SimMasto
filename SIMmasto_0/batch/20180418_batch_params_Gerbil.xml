@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sweep runs="1">
+	<parameter name="PROTOCOL" constant_type="string" type="constant" value="GERBIL_PROTOCOL"/>
+	<parameter name="VERBOSE" constant_type="boolean" type="constant" value="false"/>
+	<parameter name="DISPLAY_MAP" constant_type="boolean" type="constant" value="false"/>
+	<parameter name="BLACK_MAP" constant_type="boolean" type="constant" value="false"/>
+	<parameter name="PERSISTANCE_BURROW" constant_type="boolean" type="constant" value="false"/>
+	<parameter name="TERMINATE" constant_type="boolean" type="constant" value="false"/>
+	<parameter name="RASTER_FILE" constant_type="string" type="constant" value="zoom1"/>
+	<parameter name="randomSeed" constant_type="number" type="constant" value="1122279370" />
+	<parameter name="CELL_WIDTH_Ucm" constant_type="number" type="constant" value="10000"/>
+	<parameter name="TICK_UNIT_Ucalendar" constant_type="string" type="constant" value="m"/>
+	<parameter name="TICK_LENGTH_Ucalendar" constant_type="number" type="constant" value="60"/>
+    <parameter name="INIT_POP_SIZE" constant_type="number"  type="constant" value="50" />
+<!--     <parameter name="INIT_POP_SIZE" constant_type="number"  type="number" value="50" start="1" end="10" step="1" /> -->
+	<parameter name="NUMBER_OF_BURROW_SYSTEM" constant_type="number" type="constant" value="50" />
+</sweep>
